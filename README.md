@@ -1,4 +1,4 @@
-# COVID_Detection_using_CNN
+# COVID-Detection-using-CNN
 COVID Detection using CNN
 
 **Introduction**
